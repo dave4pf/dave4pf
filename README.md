@@ -1,5 +1,6 @@
 Software Developer and Digital Creator based in Nairobi, Kenya
-:📫 How to reach me;Davefracing@gmail.com
+
+📫 How to reach me;Davefracing@gmail.com
 
 <!---
 dave4pf/dave4pf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
