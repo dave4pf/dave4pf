@@ -1,4 +1,4 @@
-coding guru! feel free to see my projects and reachout😁
+Software Developer and Digital Creator based in Nairobi, Kenya
 
 
 <!---
